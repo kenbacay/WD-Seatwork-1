@@ -5,12 +5,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/kenbacay/">
-    <img src="./assets/img/133878330093883343.jpg" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/kb.jpg" alt="Nyebe" width="130" height="100">
   </a>
   <h3 align="center">WD-Seatwork-1</h3>
 </div>
 <div align="center">
- This project is demonstrating my skills in making?
+ This project is demonstrating my skills in making the header and footer using html and css
 </div>
 
 <br />

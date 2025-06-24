@@ -234,7 +234,7 @@
   background-color: rgba(219, 234, 9, 0.821);
 }
 
-/* Header: push all content to the right */
+
 .header4 {
   display: flex;
   justify-content: flex-end;
@@ -243,13 +243,13 @@
   padding: 20px;
 }
 
-/* Button group */
+
 .right-buttons {
   display: flex;
   gap: 10px;
 }
 
-/* Logo and name on the right */
+
 .left {
   display: flex;
   align-items: center;
@@ -267,7 +267,7 @@
   margin: 0;
 }
 
-/* Buttons */
+
 .btn {
   text-decoration: none;
   padding: 10px 20px;
@@ -277,7 +277,7 @@
   font-weight: bold;
 }
 
-/* Footer */
+
 .footer {
   text-align: center;
   padding: 10px;

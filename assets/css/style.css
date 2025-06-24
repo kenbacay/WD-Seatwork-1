@@ -5,10 +5,6 @@
     text-decoration: none;
 }
 
-/* .header *, 
-.header {
-    border: 1px dotted black; 
-} */
 
 .body {
     display: flex;
@@ -23,7 +19,6 @@
     align-items: center;
     padding: 0.3rem 1.5rem;
     justify-content:space-between;
-    background-color: rgba(94, 70, 191, 0.697);
     transition-duration: 300ms;
 }
 
@@ -76,7 +71,7 @@
 .one {
     display: flex;
     flex-direction: column;
-    background-color: rgb(174, 43, 43);
+    background-color: rgb(0, 187, 255);
 }
 
 .center-buttons {
@@ -105,93 +100,187 @@
 
 
 .two {
-    display: flex;
-    flex-direction:column;
-    background-color: rgb(174, 43, 43);
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 0, 204);
 }
 
-.center-buttons {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
+.header2 {
+  padding: 20px;
+  display: flex;
+  justify-content: flex-start; 
+  align-items: center;
+  gap:50px;
 }
+
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 20px; 
+}
+
+
+.logo {
+  width: 50px;
+  height: auto;
+}
+
+
+.company {
+  font-size: 24px;
+  color: white;
+  margin: 0;
+}
+
+
+.left-buttons {
+  display: flex;
+  gap: 10px;
+}
+
 
 .btn {
-    text-decoration: none;
-    padding: 10px 20px;
-    background-color: white;
-    color: rgb(174, 43, 43);
-    border-radius: 8px;
-    font-weight: bold;
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: white;
+  color: rgb(174, 43, 43);
+  border-radius: 8px;
+  font-weight: bold;
 }
 
 .footer {
-    text-align: center;
-    padding: 10px;
-    background: #222;
-    color: white;
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: white;
 }
+
+.btn {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: white;
+  color: rgb(174, 43, 43);
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: white;
+}
+
+
 
 
 .three {
-    display: flex;
-    flex-direction:column;
-    background-color: rgb(174, 43, 43);
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 54, 57, 0.708);
 }
 
-.center-buttons {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
+.inbetween-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding: 20px;
+}
+
+.left-buttons,
+.right-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.logo-center {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  width: 60px;
+  height: auto;
+}
+
+.company {
+  font-size: 24px;
+  color: white;
+  margin: 0;
 }
 
 .btn {
-    text-decoration: none;
-    padding: 10px 20px;
-    background-color: white;
-    color: rgb(174, 43, 43);
-    border-radius: 8px;
-    font-weight: bold;
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: white;
+  color: rgb(174, 43, 43);
+  border-radius: 8px;
+  font-weight: bold;
 }
 
 .footer {
-    text-align: center;
-    padding: 10px;
-    background: #222;
-    color: white;
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: white;
 }
 
 .four {
-    display: flex;
-    flex-direction:column;
-    background-color: rgb(174, 43, 43);
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(219, 234, 9, 0.821);
 }
 
-.center-buttons {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
+/* Header: push all content to the right */
+.header4 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
 }
 
+/* Button group */
+.right-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+/* Logo and name on the right */
+.left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  width: 50px;
+  height: auto;
+}
+
+.company {
+  font-size: 24px;
+  color: rgb(174, 43, 43);
+  margin: 0;
+}
+
+/* Buttons */
 .btn {
-    text-decoration: none;
-    padding: 10px 20px;
-    background-color: white;
-    color: rgb(174, 43, 43);
-    border-radius: 8px;
-    font-weight: bold;
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: white;
+  color: rgb(174, 43, 43);
+  border-radius: 8px;
+  font-weight: bold;
 }
 
+/* Footer */
 .footer {
-    text-align: center;
-    padding: 10px;
-    background: #222;
-    color: white;
+  text-align: center;
+  padding: 10px;
+  background: #222;
+  color: white;
 }
-

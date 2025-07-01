@@ -186,7 +186,7 @@
   justify-content: center;
   align-items: center;
   gap: 50px;
-  padding: 20rem;
+  padding: 20px;
 }
 
 .left-buttons,
@@ -214,7 +214,7 @@
 
 .btn {
   text-decoration: none;
-  padding: 10rem 20rem;
+  padding: 10px 20px;
   background-color: white;
   color: rgb(174, 43, 43);
   border-radius: 8px;
@@ -223,7 +223,7 @@
 
 .footer {
   text-align: center;
-  padding: 10rem;
+  padding: 10px;
   background: #222;
   color: white;
 }
@@ -238,7 +238,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20rem;
+  padding: 20px;
   flex-wrap: wrap;
 }
 
@@ -286,7 +286,7 @@
 
 .btn {
   text-decoration: none;
-  padding: 10rem 20rem;
+  padding: 10px 20px;
   background-color: white;
   color: rgb(174, 43, 43);
   border-radius: 8px;
@@ -295,7 +295,7 @@
 
 .footer {
   text-align: center;
-  padding: 10rem;
+  padding: 10px;
   background: #222;
   color: white;
 }

@@ -52,7 +52,7 @@
 
 ## Overview
 
-This project is demonstrating my skills in making?
+This project shows my skills in making clean and creative web designs using HTML and CSS. It includes different header and footer styles, buttons, logos, and background effects.?
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -105,4 +105,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| LOGO | This where i get my logo for this activity | https://www.freepik.com/premium-vector/kb-monogram-logo-design_31188207.htm |

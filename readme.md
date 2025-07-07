@@ -52,14 +52,14 @@
 
 ## Overview
 
-This project shows my skills in making clean and creative web designs using HTML and CSS. It includes different header and footer styles, buttons, logos, and background effects.?
+This project shows my skills in making clean and creative web designs using HTML and CSS. It includes different header and footer styles, buttons, logos, and background effects.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - Single Page Website
-- Parallax transition
-- Transactional
+- Different header and footer
+- Different colors of background and buttons
 
 ### Technology
 <!-- TODO: List of Technology Used -->

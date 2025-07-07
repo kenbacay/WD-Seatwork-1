@@ -328,6 +328,12 @@ html {
   color: #000;
 }
 
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
 .header4 {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 1rem 2rem;
@@ -338,6 +344,11 @@ html {
   align-items: center;
   gap: 2rem;
   flex-wrap: wrap;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
 }
 
 .beside-buttons {
@@ -358,6 +369,63 @@ html {
 .beside-buttons .btn:hover {
   background-color: #ddd;
 }
+
+.content {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+
+.back-container {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.back-btn {
+  background-color: #000;
+  color: #fff;
+  padding: 0.6rem 1.5rem;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.back-btn:hover {
+  background-color: #333;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  flex-wrap: wrap;
+}
+
+.footer-left {
+  font-size: 0.9rem;
+}
+
+.footer-right {
+  display: flex;
+  gap: 1rem;
+}
+
+.social-icon {
+  color: #fff;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+.social-icon:hover {
+  color: #fcb69f;
+}
+
 
 .five {
   min-height: 100vh;
@@ -434,7 +502,6 @@ html {
   margin-bottom: 1rem;
 }
 
-/* Back Button */
 .back-container {
   display: flex;
   justify-content: center;
@@ -457,8 +524,8 @@ html {
   transform: scale(1.05);
 }
 
-.footer {
-  text-align: center;
+.footerrr5 {
+  text-align: right;
   padding: 1rem;
   background-color: rgba(0, 0, 0, 0.5);
 }
